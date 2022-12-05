@@ -14,7 +14,7 @@
    background: #Ff0000;
 }
 .yellow {
-
+ left:40px;
    background: #FFFF00;
 }
 .brown {
